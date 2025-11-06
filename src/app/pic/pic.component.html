@@ -3,5 +3,7 @@
     <img [src]="imageUrl" [alt]="title">
     <p>{{ description }}</p>
     <p>PicShare créée le {{ createdAt }}</p>
-    <p> {{ likes }} ❤️</p>
+    <p>
+        <button (click)="onLike()"> {{ likeButtonText }}</button> {{ likes }} ❤️
+    </p>
     <div>
