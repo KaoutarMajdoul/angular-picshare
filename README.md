@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # angular-picshare
-First project using Angular. This is an app to share pics 📸
+First project using Angular with OpenClassroom course. This is an app to share pics 📸
 =======
 # Picshare
 
